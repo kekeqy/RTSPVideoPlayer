@@ -4,3 +4,10 @@ C:\Users\KE\Desktop\A-RTSP-Player-Usercontrol-based-on-nVLC\Declarations\bin\Deb
 C:\Users\KE\Desktop\A-RTSP-Player-Usercontrol-based-on-nVLC\Declarations\obj\Debug\nVLC.Declarations.csproj.CoreCompileInputs.cache
 C:\Users\KE\Desktop\A-RTSP-Player-Usercontrol-based-on-nVLC\Declarations\obj\Debug\nVLC.Declarations.dll
 C:\Users\KE\Desktop\A-RTSP-Player-Usercontrol-based-on-nVLC\Declarations\obj\Debug\nVLC.Declarations.pdb
+G:\github\RTSPVideoPlayer\Declarations\bin\Debug\nVLC.Declarations.xml
+G:\github\RTSPVideoPlayer\Declarations\bin\Debug\nVLC.Declarations.dll
+G:\github\RTSPVideoPlayer\Declarations\bin\Debug\nVLC.Declarations.pdb
+G:\github\RTSPVideoPlayer\Declarations\obj\Debug\nVLC.Declarations.csprojAssemblyReference.cache
+G:\github\RTSPVideoPlayer\Declarations\obj\Debug\nVLC.Declarations.csproj.CoreCompileInputs.cache
+G:\github\RTSPVideoPlayer\Declarations\obj\Debug\nVLC.Declarations.dll
+G:\github\RTSPVideoPlayer\Declarations\obj\Debug\nVLC.Declarations.pdb

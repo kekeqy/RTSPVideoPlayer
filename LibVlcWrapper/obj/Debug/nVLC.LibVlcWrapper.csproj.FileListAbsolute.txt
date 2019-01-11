@@ -4,3 +4,10 @@ C:\Users\KE\Desktop\A-RTSP-Player-Usercontrol-based-on-nVLC\LibVlcWrapper\bin\De
 C:\Users\KE\Desktop\A-RTSP-Player-Usercontrol-based-on-nVLC\LibVlcWrapper\obj\Debug\nVLC.LibVlcWrapper.csproj.CoreCompileInputs.cache
 C:\Users\KE\Desktop\A-RTSP-Player-Usercontrol-based-on-nVLC\LibVlcWrapper\obj\Debug\nVLC.LibVlcWrapper.dll
 C:\Users\KE\Desktop\A-RTSP-Player-Usercontrol-based-on-nVLC\LibVlcWrapper\obj\Debug\nVLC.LibVlcWrapper.pdb
+G:\github\RTSPVideoPlayer\LibVlcWrapper\bin\Debug\nVLC.LibVlcWrapper.xml
+G:\github\RTSPVideoPlayer\LibVlcWrapper\bin\Debug\nVLC.LibVlcWrapper.dll
+G:\github\RTSPVideoPlayer\LibVlcWrapper\bin\Debug\nVLC.LibVlcWrapper.pdb
+G:\github\RTSPVideoPlayer\LibVlcWrapper\obj\Debug\nVLC.LibVlcWrapper.csprojAssemblyReference.cache
+G:\github\RTSPVideoPlayer\LibVlcWrapper\obj\Debug\nVLC.LibVlcWrapper.csproj.CoreCompileInputs.cache
+G:\github\RTSPVideoPlayer\LibVlcWrapper\obj\Debug\nVLC.LibVlcWrapper.dll
+G:\github\RTSPVideoPlayer\LibVlcWrapper\obj\Debug\nVLC.LibVlcWrapper.pdb

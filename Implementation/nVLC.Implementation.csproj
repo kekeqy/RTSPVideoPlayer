@@ -140,9 +140,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <None Include="RefDLL\NLog.dll">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
+    <None Include="RefDLL\NLog.dll" />
   </ItemGroup>
   <ItemGroup>
     <Analyzer Include="RefDLL\NLog.dll" />
