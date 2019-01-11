@@ -1,0 +1,6 @@
+C:\Users\KE\Desktop\A-RTSP-Player-Usercontrol-based-on-nVLC\LibVlcWrapper\bin\Debug\nVLC.LibVlcWrapper.xml
+C:\Users\KE\Desktop\A-RTSP-Player-Usercontrol-based-on-nVLC\LibVlcWrapper\bin\Debug\nVLC.LibVlcWrapper.dll
+C:\Users\KE\Desktop\A-RTSP-Player-Usercontrol-based-on-nVLC\LibVlcWrapper\bin\Debug\nVLC.LibVlcWrapper.pdb
+C:\Users\KE\Desktop\A-RTSP-Player-Usercontrol-based-on-nVLC\LibVlcWrapper\obj\Debug\nVLC.LibVlcWrapper.csproj.CoreCompileInputs.cache
+C:\Users\KE\Desktop\A-RTSP-Player-Usercontrol-based-on-nVLC\LibVlcWrapper\obj\Debug\nVLC.LibVlcWrapper.dll
+C:\Users\KE\Desktop\A-RTSP-Player-Usercontrol-based-on-nVLC\LibVlcWrapper\obj\Debug\nVLC.LibVlcWrapper.pdb
